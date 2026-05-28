@@ -18,6 +18,7 @@ Currently pursuing B.Tech in Electronics & Computer Science from Ramdeobaba Univ
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### ✍️ Thank You |
 ---
 [![](https://komarev.com/ghpvc/?username=hackers-228&icon=0&color=0)](https://visitcount.itsvg.in)
 
