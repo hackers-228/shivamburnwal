@@ -4,7 +4,7 @@ Currently pursuing B.Tech in Electronics & Computer Science from Ramdeobaba Univ
 # 🔥 Current Focus
 
 - Open Source Contributions
-- Full Stack Development
+- Full Stack AI Development
 - Backend Development
 - Learning New Technologies
 
