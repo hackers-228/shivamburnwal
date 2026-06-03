@@ -1,7 +1,14 @@
 # 💫 About Me:
 Currently pursuing B.Tech in Electronics & Computer Science from Ramdeobaba University, Nagpur (RBU ’28) with a strong interest in Embedded Systems, Software Development, Artificial Intelligence, and scalable technology solutions.<br><br>Programming Languages:<br><br>Python • C • C++ • Embedded C • Java • JavaScript • MATLAB<br><br>Embedded Systems & Robotics:<br><br>Arduino IDE • Raspberry Pi • Microcontrollers • IoT • Sensor Interfacing • System Design<br><br>AI/ML & Computer Vision:<br><br>Basic Machine Learning • NLP Concepts • OpenCV • TensorFlow • PyTorch<br><br>Web Development:<br><br>HTML • CSS • JavaScript • React.js • Node.js • Express.js • REST APIs<br><br>Tools & Platforms:<br><br>Git • GitHub • npm
 
+# 🔥 Current Focus
 
+- Open Source Contributions
+- Full Stack Development
+- Backend Development
+- Learning New Technologies
+
+---
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__shivam5947__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SHIVAM BURNWAL) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/__shivam5947__) 
 
